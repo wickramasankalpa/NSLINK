@@ -1,0 +1,2 @@
+D:/SANKALPA/Documents/NSLINK/lecture_booking_page/android/app/.cxx/Debug/5j6r1467/x86/CMakeFiles/edit_cache.dir
+D:/SANKALPA/Documents/NSLINK/lecture_booking_page/android/app/.cxx/Debug/5j6r1467/x86/CMakeFiles/rebuild_cache.dir
