@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "507397871783",
+    "firebase_url": "https://nslink-meeting-side-default-rtdb.firebaseio.com",
+    "project_id": "nslink-meeting-side",
+    "storage_bucket": "nslink-meeting-side.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:507397871783:android:30586dedd1b7dfab05e382",
+        "android_client_info": {
+          "package_name": "com.example.lecture_booking_page"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTca08WHkZ5xJSypfK6Y52pWDRlAMHj10"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:507397871783:android:2690ee1e3e0e6aca05e382",
+        "android_client_info": {
+          "package_name": "com.example.lecturer_meeting"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTca08WHkZ5xJSypfK6Y52pWDRlAMHj10"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

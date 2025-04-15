@@ -1,0 +1,2 @@
+D:/SANKALPA/Documents/NSLINK/lecturer_meeting/android/app/.cxx/Debug/mo4x2z73/x86_64/CMakeFiles/edit_cache.dir
+D:/SANKALPA/Documents/NSLINK/lecturer_meeting/android/app/.cxx/Debug/mo4x2z73/x86_64/CMakeFiles/rebuild_cache.dir
