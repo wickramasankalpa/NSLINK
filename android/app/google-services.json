@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "823658071008",
+    "project_id": "nslink-library-admin",
+    "storage_bucket": "nslink-library-admin.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:823658071008:android:a31d3071a59cbee1472185",
+        "android_client_info": {
+          "package_name": "com.example.library_booking_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcF6B6mAvf0BOeweYqeEvIDAxhLl7gCN4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
