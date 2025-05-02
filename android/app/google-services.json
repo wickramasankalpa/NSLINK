@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "446316010441",
+    "project_id": "assignment-347aa",
+    "storage_bucket": "assignment-347aa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:446316010441:android:db750eb707e910ab71a618",
+        "android_client_info": {
+          "package_name": "com.example.anjanabyme"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhwvL1W2CSFmdKD_QvNygEeB16ZgaM73o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
