@@ -355,9 +355,10 @@ class DatabaseService {
     await _db.collection('notifications').add({
       'userId': studentId,
       'message': message,
-      'timestamp': Timestamp.fromDate(DateTime.now()),
+     'timestamp': FieldValue.serverTimestamp(), // Use server timestamp for accuracy
       'isRead': false,
     });
+    
   }
 
   // Cleaned up _createNotification to only store essential fields
